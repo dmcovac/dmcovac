@@ -65,6 +65,6 @@ Daily driver →  Claude for work · ChatGPT for thinking · Perplexity for digg
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmcovac&theme=nord)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=dmcovac&theme=radical)
+
 
 
