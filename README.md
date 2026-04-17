@@ -10,7 +10,7 @@ Based in **Valencia 🇪🇸**. I think in Spanish, work in English, and code in
 
 ---
 
-#### 🛠️ What I'm building
+#### 🛠️ What I'm building on my spare time
 
 - 🌿 **[Ohana](#)** — A minimalist app to keep meaningful notes about the people who matter. Voice notes, AI-generated context. *Because Notion is not made for relationships.* **SOON TO BE PUBLISHED**
 - 🎓 **Fluidez en IA para RRHH** — An 8-module training program built on Anthropic's 4Ds framework (Delegación · Descripción · Discernimiento · Diligencia) for HR professionals who want to stop fearing AI, at The Bridge
