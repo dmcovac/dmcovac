@@ -48,16 +48,23 @@ Daily driver →  Claude for work · ChatGPT for thinking · Perplexity for digg
 
 #### 🔗 Find me elsewhere
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dmcovac)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmcovac)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ccmd81&theme=radical&show_icons=true&hide_border=true&count_private=true)
-
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulcecova/)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=flat&logoColor=black)](https://huggingface.co/ccmd81)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dmcovac@gmail.com)
 
 <sub>✨ Building a balanced self outside of work, one git commit at a time.</sub>
+
+
+#### 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=dmcovac)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmcovac)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=dmcovac&theme=nord&show_icons=true&hide_border=true&count_private=true) 
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmcovac&theme=nord)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=dmcovac&theme=radical)
+
+
