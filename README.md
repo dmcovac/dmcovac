@@ -48,6 +48,14 @@ Daily driver →  Claude for work · ChatGPT for thinking · Perplexity for digg
 
 #### 🔗 Find me elsewhere
 
+![Stats](https://github-readme-stats.vercel.app/api?username=dmcovac)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmcovac)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ccmd81&theme=radical&show_icons=true&hide_border=true&count_private=true)
+
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulcecova/)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=flat&logoColor=black)](https://huggingface.co/ccmd81)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dmcovac@gmail.com)
