@@ -34,7 +34,7 @@ Daily driver →  Claude for work · ChatGPT for thinking · Perplexity for digg
 #### 🌱 What I'm learning right now
 
 - Building AI agents *from scratch* — no frameworks, just the SDK and patience
-- Finishing the data science bootcamp I once abandoned, this time with HR datasets
+- Finishing the data science bootcamp, this time with HR datasets
 - Writing Spanish labor law like a lawyer, Python like an engineer, and prompts like both
 
 ---
