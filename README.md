@@ -60,11 +60,3 @@ Daily driver →  Claude for work · ChatGPT for thinking · Perplexity for digg
 ![Stats](https://github-readme-stats.vercel.app/api?username=dmcovac)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmcovac)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=dmcovac&theme=nord&show_icons=true&hide_border=true&count_private=true) 
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmcovac&theme=nord)
-
-
-
-
