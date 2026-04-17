@@ -14,7 +14,7 @@ Based in **Valencia 🇪🇸**. I think in Spanish, work in English, and code in
 
 - 🌿 **[Ohana](#)** — A minimalist app to keep meaningful notes about the people who matter. Voice notes, AI-generated context. *Because Notion is not made for relationships. SOON TO BE PUBLISHED *
 - 🎓 **Fluidez en IA para RRHH** — An 8-module training program built on Anthropic's 4Ds framework (Delegación · Descripción · Discernimiento · Diligencia) for HR professionals who want to stop fearing AI, at The Bridge
-- 🤖 **[career_conversations](https://huggingface.co/spaces/ccmd81/career_conversations)** — A Gradio app on Hugging Face. My playground for learning agent development with the OpenAI SDK — no LangChain, no training wheels.
+- 🤖 **[career_conversations](https://huggingface.co/spaces/ccmd81/career_conversations)** — A Gradio app on Hugging Face. My playground for learning agent development with the OpenAI SDK — no LangChain, no training wheels. You can talk to this app as if you were interviewing me. And if you want to contact me, leave your email :).
 
 
 ---
